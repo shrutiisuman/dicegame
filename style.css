@@ -1,0 +1,26 @@
+.container{
+    background: rgb(111, 121, 117);
+}
+
+.container h1{
+    font-size: 6rem;
+    color: aqua;
+    text-align: center;
+    font-weight: bold;
+}
+
+.top{ 
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.top .dice{
+    margin: 4%;
+}
+
+.top p{
+    color: aqua;
+    font-size: 3rem;
+}
